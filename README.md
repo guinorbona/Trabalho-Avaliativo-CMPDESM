@@ -1,11 +1,7 @@
-# Sample Snack app
+# Meu Gestor de Gastos
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Este é um aplicativo móvel desenvolvido como trabalho avaliativo para a disciplina de Desenvolvimento para Dispositivos Móveis do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP Campus Campinas. O objetivo do projeto é criar um aplicativo de controle financeiro pessoal, permitindo ao usuário gerenciar suas despesas e receitas de forma simples e intuitiva.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Link do Expo Snack
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+https://snack.expo.dev/@guinorbona/trabalho-avaliativo
